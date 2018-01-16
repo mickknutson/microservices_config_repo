@@ -9,5 +9,5 @@ config:
     credentials:
       provider: CAS3
       username: admin4
-      password: changeme
+      password: '{cipher}49e0afa801256a609a378eb5e5ed82f7458d5c1409716d027c94e68597f004b6'
       clients: 4
