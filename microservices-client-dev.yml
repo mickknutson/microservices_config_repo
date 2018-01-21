@@ -9,6 +9,6 @@ config:
     credentials:
       provider: CAS3
       username: admin4
-      password: '{cipher}AQBmUqlCMrkbAQcdi1lbjlNp/Drk1+6OTRrbBuad2Pci2Q7ZhFIcFU2iHFhNb8mdg/8/ceH6IN1b4UiF441GqaZ/aktuwFTf4lV6dLaWMP0qCjcwd07jLVq+Ldgh6LPgU4mExMhhtoJLsqXn+BjeUFf6/9fMQ9suXm4uVPWXJeql2fWzdCYS3N16pdF7kbnH3yM/0L0FPX3XPqkOn+6qCDft2gfKsQ9a/+6v3KuXHSPBjPwDABGzacPb0vjgQPxviNtz7Tjzwq1qcjJsBYU5DdtQTzOeRe4yPcFiKuiu6BZs71BDMYLGlyDqtLoQxygQQ2M3mlKqUVEtFiJpsHtn+XLBJ2LzUL9yaTj4xy9aQOvImH8oP/Rqxb1D8Yaj7676tRM='
-      password2: '{cipher}49e0afa801256a609a378eb5e5ed82f7458d5c1409716d027c94e68597f004b6'
+      password: '{cipher}49e0afa801256a609a378eb5e5ed82f7458d5c1409716d027c94e68597f004b6'
+      password2: '{cipher}AQBmUqlCMrkbAQcdi1lbjlNp/Drk1+6OTRrbBuad2Pci2Q7ZhFIcFU2iHFhNb8mdg/8/ceH6IN1b4UiF441GqaZ/aktuwFTf4lV6dLaWMP0qCjcwd07jLVq+Ldgh6LPgU4mExMhhtoJLsqXn+BjeUFf6/9fMQ9suXm4uVPWXJeql2fWzdCYS3N16pdF7kbnH3yM/0L0FPX3XPqkOn+6qCDft2gfKsQ9a/+6v3KuXHSPBjPwDABGzacPb0vjgQPxviNtz7Tjzwq1qcjJsBYU5DdtQTzOeRe4yPcFiKuiu6BZs71BDMYLGlyDqtLoQxygQQ2M3mlKqUVEtFiJpsHtn+XLBJ2LzUL9yaTj4xy9aQOvImH8oP/Rqxb1D8Yaj7676tRM='
       clients: 4
